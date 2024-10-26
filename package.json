@@ -1,0 +1,22 @@
+{
+  "name": "urlshortner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.21.0",
+    "id": "^0.0.0",
+    "mongoose": "^8.7.0",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.7",
+    "short": "^2.6.0",
+    "shortid": "^2.2.16"
+  }
+}
